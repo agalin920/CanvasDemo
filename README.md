@@ -1,2 +1,2 @@
-# CanvasSample
-A canvas sample made with javascript
+# CanvasDemo
+A canvas demo made with javascript
